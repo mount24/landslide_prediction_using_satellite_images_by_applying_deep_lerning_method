@@ -1,0 +1,1 @@
+# landslide_prediction_using_satellite_images_by_applying_deep_lerning_method
